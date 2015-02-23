@@ -1,12 +1,6 @@
-# angular-js
+# AngularJS OAuth2 Sample App
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.11.1.
+This project is the sample app for the [angularjs-oauth2 bower package](https://github.com/JamesRandall/AngularJS-OAuth2).
 
-## Build & development
+This [blog post](http://www.azurefromthetrenches.com/?p=2241) gives an overview.
 
-Run `grunt` for building and `grunt serve` for preview.
-
-## Testing
-
-Running `grunt test` will run the unit tests with karma.
